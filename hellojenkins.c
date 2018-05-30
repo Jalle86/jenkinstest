@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-	fooprintf("hELLO JENKINS!?:D\r\n");
+	printf("hELLO JENKINS!?:D\r\n");
 	return 0;
 }
